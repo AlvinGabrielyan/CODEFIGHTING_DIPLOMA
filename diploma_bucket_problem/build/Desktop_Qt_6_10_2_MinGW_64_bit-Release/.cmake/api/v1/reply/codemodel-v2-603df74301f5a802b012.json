@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-ca3e9b35eb0200af5e7f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "diploma_bucket_problem",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "diploma_bucket_problem::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-diploma_bucket_problem-Release-35626e5599bc0312f2e0.json",
+					"name" : "diploma_bucket_problem",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "diploma_bucket_problem_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-diploma_bucket_problem_autogen-Release-2e83877b0766573646f4.json",
+					"name" : "diploma_bucket_problem_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "diploma_bucket_problem_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-diploma_bucket_problem_autogen_timestamp_deps-Release-55b83ad4b91e8995011a.json",
+					"name" : "diploma_bucket_problem_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/ALVINA/DIPLOMA_QT/diploma_bucket_problem/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release",
+		"source" : "D:/ALVINA/DIPLOMA_QT/diploma_bucket_problem"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

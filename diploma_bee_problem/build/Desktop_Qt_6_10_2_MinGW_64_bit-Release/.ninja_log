@@ -1,0 +1,17 @@
+# ninja log v6
+1288	3666	7950543399434439	CMakeFiles/diploma_bee_problem.dir/command.cpp.obj	912c0c75a1198077
+68	228	7950869369403909	diploma_bee_problem_autogen/timestamp	733315cc45d621c2
+1283	4246	7950543399384454	CMakeFiles/diploma_bee_problem.dir/beesystem.cpp.obj	f7b9e1412ed5fb45
+68	228	7950869369403909	diploma_bee_problem_autogen/mocs_compilation.cpp	733315cc45d621c2
+229	3218	7950869371015127	CMakeFiles/diploma_bee_problem.dir/beesimulatorwindow.cpp.obj	2c31dbedcca4500
+68	228	7950869369403909	D:/ALVINA/DIPLOMA_QT/diploma_bee_problem/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/diploma_bee_problem_autogen/timestamp	733315cc45d621c2
+68	228	7950869369403909	D:/ALVINA/DIPLOMA_QT/diploma_bee_problem/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/diploma_bee_problem_autogen/mocs_compilation.cpp	733315cc45d621c2
+1274	3322	7950543399294440	CMakeFiles/diploma_bee_problem.dir/bee.cpp.obj	edaa3b5f7c3231ca
+15039	21910	7939863780508380	CMakeFiles/diploma_bee_problem.dir/mainwindow.cpp.obj	63f1d596833e0891
+1264	3955	7950543399194423	CMakeFiles/diploma_bee_problem.dir/main.cpp.obj	7643e3af6678fa9c
+1303	2919	7950543399574453	CMakeFiles/diploma_bee_problem.dir/flower.cpp.obj	1fb413ffa7e914c6
+1297	2886	7950543399524446	CMakeFiles/diploma_bee_problem.dir/honeycomb.cpp.obj	61824a5fce4c8377
+1293	4603	7950543399474447	CMakeFiles/diploma_bee_problem.dir/interpreter.cpp.obj	fe3dc6a765efcf44
+215	2507	7950545489130818	CMakeFiles/diploma_bee_problem.dir/beesimulator.cpp.obj	3fa78aa528a5d125
+3219	3392	7950869400911127	diploma_bee_problem.exe	d64c5c38d90e2f73
+1259	5540	7950543399144440	CMakeFiles/diploma_bee_problem.dir/diploma_bee_problem_autogen/mocs_compilation.cpp.obj	3c4839a3a1050380

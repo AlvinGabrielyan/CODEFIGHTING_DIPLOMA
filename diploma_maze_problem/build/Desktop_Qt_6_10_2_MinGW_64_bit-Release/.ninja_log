@@ -1,0 +1,10 @@
+# ninja log v6
+43	212	7952059717342015	diploma_maze_problem_autogen/timestamp	e8615a0eec437d29
+43	212	7952059717342015	diploma_maze_problem_autogen/mocs_compilation.cpp	e8615a0eec437d29
+43	212	7952059717342015	D:/ALVINA/DIPLOMA_QT/diploma_maze_problem/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/diploma_maze_problem_autogen/timestamp	e8615a0eec437d29
+43	212	7952059717342015	D:/ALVINA/DIPLOMA_QT/diploma_maze_problem/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/diploma_maze_problem_autogen/mocs_compilation.cpp	e8615a0eec437d29
+213	1650	7952059719113291	CMakeFiles/diploma_maze_problem.dir/mazelogic.cpp.obj	490f87d4b7751ffc
+918	2856	7951894780546394	CMakeFiles/diploma_maze_problem.dir/main.cpp.obj	15e1b073183ebf19
+914	2858	7951894780516343	CMakeFiles/diploma_maze_problem.dir/diploma_maze_problem_autogen/mocs_compilation.cpp.obj	d36138537e4e7f80
+271	4361	7952014771046217	CMakeFiles/diploma_maze_problem.dir/mainwindow.cpp.obj	616ad6cb4895a504
+1650	1830	7952059733491204	diploma_maze_problem.exe	d93ee9223045e4d0

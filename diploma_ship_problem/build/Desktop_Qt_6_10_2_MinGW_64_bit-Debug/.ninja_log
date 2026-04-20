@@ -1,0 +1,26 @@
+# ninja log v6
+47	1065	7935770944632970	diploma_ship_problem_autogen/timestamp	106f26caa54f8960
+47	1065	7935770944632970	diploma_ship_problem_autogen/mocs_compilation.cpp	106f26caa54f8960
+47	1065	7935770944632970	D:/ALVINA/DIPLOMA_QT/diploma_ship_problem/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/diploma_ship_problem_autogen/timestamp	106f26caa54f8960
+853	2668	7926276009935664	CMakeFiles/diploma_ship_problem.dir/boat.cpp.obj	ce59ef12b8f8be8e
+640	2292	7921617366641339	CMakeFiles/diploma_ship_problem.dir/mission.cpp.obj	f98a86f8a97de0b
+47	1065	7935770944632970	D:/ALVINA/DIPLOMA_QT/diploma_ship_problem/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/diploma_ship_problem_autogen/mocs_compilation.cpp	106f26caa54f8960
+2027	4211	7926345956828828	CMakeFiles/diploma_ship_problem.dir/command.cpp.obj	798b592aafb3a832
+2033	4254	7926345956888849	CMakeFiles/diploma_ship_problem.dir/interpreter.cpp.obj	7dab155efeb3f015
+1071	4036	7935770945842953	CMakeFiles/diploma_ship_problem.dir/main.cpp.obj	33f8bfb1635274ff
+455	3749	7926379317610202	CMakeFiles/diploma_ship_problem.dir/simulator.cpp.obj	ddfbe307d9899be5
+1086	4110	7935770945992953	CMakeFiles/diploma_ship_problem.dir/mainwindow.cpp.obj	f2b905b350a63329
+1066	4507	7935770945792936	CMakeFiles/diploma_ship_problem.dir/diploma_ship_problem_autogen/mocs_compilation.cpp.obj	c76498424aae8045
+4507	7361	7935770980209080	diploma_ship_problem.exe	ee0bdc705ca7375f
+38	1918	7950443987317778	diploma_ship_problem_autogen/timestamp	106f26caa54f8960
+38	1918	7950443987317778	diploma_ship_problem_autogen/mocs_compilation.cpp	106f26caa54f8960
+38	1918	7950443987317778	D:/ALVINA/DIPLOMA_QT/diploma_ship_problem/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/diploma_ship_problem_autogen/timestamp	106f26caa54f8960
+38	1918	7950443987317778	D:/ALVINA/DIPLOMA_QT/diploma_ship_problem/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/diploma_ship_problem_autogen/mocs_compilation.cpp	106f26caa54f8960
+1939	4984	7950443989957801	CMakeFiles/diploma_ship_problem.dir/boat.cpp.obj	c829bf5c8f16691d
+1945	5403	7950443990017796	CMakeFiles/diploma_ship_problem.dir/command.cpp.obj	1e5993a705d062e3
+1957	5940	7950443990147788	CMakeFiles/diploma_ship_problem.dir/interpreter.cpp.obj	18dffca360bb40d1
+1926	6487	7950443989827817	CMakeFiles/diploma_ship_problem.dir/main.cpp.obj	5e62ef27d1914624
+1951	7072	7950443990077808	CMakeFiles/diploma_ship_problem.dir/simulator.cpp.obj	b05e6a2720a6d025
+1933	7643	7950443989897771	CMakeFiles/diploma_ship_problem.dir/mainwindow.cpp.obj	af369a39c5c1f37f
+1920	7839	7950443989767809	CMakeFiles/diploma_ship_problem.dir/diploma_ship_problem_autogen/mocs_compilation.cpp.obj	6d67e009ff3817c0
+7839	10309	7950444048960611	diploma_ship_problem.exe	93800d78937d252b

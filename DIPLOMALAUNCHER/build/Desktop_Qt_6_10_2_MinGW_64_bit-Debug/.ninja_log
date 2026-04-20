@@ -1,0 +1,17 @@
+# ninja log v6
+84	256	7944039713528188	DiplomaLauncher_autogen/timestamp	888a087a8db8f223
+84	256	7944039713528188	DiplomaLauncher_autogen/mocs_compilation.cpp	888a087a8db8f223
+84	256	7944039713528188	D:/ALVINA/DIPLOMA_QT/DiplomaLauncher/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/DiplomaLauncher_autogen/timestamp	888a087a8db8f223
+256	2260	7944039715234635	CMakeFiles/DiplomaLauncher.dir/mainwindow.cpp.obj	55022b579e7968ff
+2260	2469	7944039735278831	DiplomaLauncher.exe	5014eca52de421f
+84	256	7944039713528188	D:/ALVINA/DIPLOMA_QT/DiplomaLauncher/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/DiplomaLauncher_autogen/mocs_compilation.cpp	888a087a8db8f223
+1018	2872	7943989736908440	CMakeFiles/DiplomaLauncher.dir/DiplomaLauncher_autogen/mocs_compilation.cpp.obj	60c98690bd538ce
+1020	2794	7943989736938443	CMakeFiles/DiplomaLauncher.dir/main.cpp.obj	aae4708918d8250e
+94	1086	7950897099553955	DiplomaLauncher_autogen/timestamp	888a087a8db8f223
+94	1086	7950897099553955	DiplomaLauncher_autogen/mocs_compilation.cpp	888a087a8db8f223
+94	1086	7950897099553955	D:/ALVINA/DIPLOMA_QT/DiplomaLauncher/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/DiplomaLauncher_autogen/timestamp	888a087a8db8f223
+94	1086	7950897099553955	D:/ALVINA/DIPLOMA_QT/DiplomaLauncher/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/DiplomaLauncher_autogen/mocs_compilation.cpp	888a087a8db8f223
+1089	2790	7950897100309271	CMakeFiles/DiplomaLauncher.dir/main.cpp.obj	aae4708918d8250e
+1087	2902	7950897100283964	CMakeFiles/DiplomaLauncher.dir/DiplomaLauncher_autogen/mocs_compilation.cpp.obj	60c98690bd538ce
+1091	3429	7950897100339063	CMakeFiles/DiplomaLauncher.dir/mainwindow.cpp.obj	55022b579e7968ff
+3429	3719	7950897123715483	DiplomaLauncher.exe	5014eca52de421f

@@ -1,0 +1,21 @@
+# ninja log v6
+40	629	7950908621291105	diploma_ship_problem_autogen/timestamp	19e0c8d99bec8124
+40	629	7950908621291105	diploma_ship_problem_autogen/mocs_compilation.cpp	19e0c8d99bec8124
+637	2066	7950908622022524	CMakeFiles/diploma_ship_problem.dir/boat.cpp.obj	c96d2340ba9aebb0
+40	629	7950908621291105	D:/ALVINA/DIPLOMA_QT/diploma_ship_problem/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/diploma_ship_problem_autogen/timestamp	19e0c8d99bec8124
+40	629	7950908621291105	D:/ALVINA/DIPLOMA_QT/diploma_ship_problem/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/diploma_ship_problem_autogen/mocs_compilation.cpp	19e0c8d99bec8124
+640	2141	7950908622062864	CMakeFiles/diploma_ship_problem.dir/command.cpp.obj	18cdd46bcb1a79a
+647	2902	7950908622122510	CMakeFiles/diploma_ship_problem.dir/interpreter.cpp.obj	b080ecaeff176315
+633	2782	7950908621982500	CMakeFiles/diploma_ship_problem.dir/main.cpp.obj	970f42a60fb6062
+635	4274	7950908622002547	CMakeFiles/diploma_ship_problem.dir/mainwindow.cpp.obj	762be2d579aa86d0
+643	3899	7950908622092514	CMakeFiles/diploma_ship_problem.dir/simulator.cpp.obj	d562a8de197515f1
+630	4125	7950908621952544	CMakeFiles/diploma_ship_problem.dir/diploma_ship_problem_autogen/mocs_compilation.cpp.obj	e6c40f8a65b0f694
+4274	4437	7950908658393301	diploma_ship_problem.exe	267438f122df9892
+73	96	7950908614789898	CMakeFiles/clean.additional	321391b2684b2653
+96	101	7950908615019936	clean	577b940aee94fbd7
+67	358	7962212407094457	diploma_ship_problem_autogen/timestamp	19e0c8d99bec8124
+67	358	7962212407094457	diploma_ship_problem_autogen/mocs_compilation.cpp	19e0c8d99bec8124
+67	358	7962212407094457	D:/ALVINA/DIPLOMA_QT/diploma_ship_problem/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/diploma_ship_problem_autogen/timestamp	19e0c8d99bec8124
+67	358	7962212407094457	D:/ALVINA/DIPLOMA_QT/diploma_ship_problem/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/diploma_ship_problem_autogen/mocs_compilation.cpp	19e0c8d99bec8124
+360	3783	7962212410031524	CMakeFiles/diploma_ship_problem.dir/mainwindow.cpp.obj	762be2d579aa86d0
+3785	4359	7962212444284542	diploma_ship_problem.exe	267438f122df9892

@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-619470d9ce8fc0cdd8b4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "diploma_bee_problem",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "diploma_bee_problem::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-diploma_bee_problem-Debug-61de464758f3189f22b1.json",
+					"name" : "diploma_bee_problem",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "diploma_bee_problem_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-diploma_bee_problem_autogen-Debug-8877f06bce9d7fe35694.json",
+					"name" : "diploma_bee_problem_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "diploma_bee_problem_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-diploma_bee_problem_autogen_timestamp_deps-Debug-a17b16d34846545f6183.json",
+					"name" : "diploma_bee_problem_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/ALVINA/DIPLOMA_QT/diploma_bee_problem/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug",
+		"source" : "D:/ALVINA/DIPLOMA_QT/diploma_bee_problem"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
